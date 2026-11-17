@@ -1,0 +1,18 @@
+{
+    "new_version": {
+        "projectName": "new_version",
+        "description": "new version",
+        "type": "community",
+        "author": "duttarnab",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/duttarnab/agama-pw",
+        "githubUri": "https://github.com/duttarnab/agama-pw",
+        "license": "Apache 2",
+        "lastUpdated": "1794920835848",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
