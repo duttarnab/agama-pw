@@ -13,6 +13,9 @@
             "jans"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "org.gluu.agama.pw.main": {}
+        },
+        "name": "new_version"
     }
 }
